@@ -20,4 +20,4 @@ Python · requests · pandas · openpyxl · SQLite · Flask · JavaScript · Chr
 
 **Find me**
 
-[techshipz.github.io](https://techshipz.github.io) · [LinkedIn](https://www.linkedin.com/in/yadav00ram) · shriyadav1500@gmail.com
+[r4myd.com](https://r4myd.com) · [LinkedIn](https://www.linkedin.com/in/yadav00ram) · shriyadav1500@gmail.com
